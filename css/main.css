@@ -1,0 +1,88 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.clear {
+    clear: both;
+}
+
+#header h2 {
+    text-align: center;
+}
+
+#left, #right {
+    padding: 0 10px 0 10px;
+    width: 230px;
+    min-height: 350px;
+}
+	
+#left {    
+	border-right: 1px solid #000;
+    float: left;
+}
+
+#right {
+    border-left: 1px solid #000;
+    float: right;
+}
+
+#center {
+    border-left: 1px solid #000;       
+    margin: 0 250px;
+    padding: 0 10px;
+}
+
+hr {
+    margin: 0;
+}
+
+#center h1 {
+    margin: 0;
+    text-align: center;
+}
+
+#footer p {
+    text-align: center;
+}
+
+#pagination p {
+    font-size: 110%;
+    margin: 0;
+    text-align: center;
+}
+
+#pagination a {
+    display: inline-block;
+    padding: 3px;    
+}
+
+#reg table {
+    margin: 0 auto;
+}
+
+.message {
+    color: #f00;
+    text-align: center;
+}
+
+#message p {
+    text-align: center;
+}
+
+#list th, #list td {
+	outline: 1px solid #ccc;
+	border-collapse: collapse;
+	padding: 5px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
